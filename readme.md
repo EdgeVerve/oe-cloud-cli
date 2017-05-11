@@ -20,7 +20,7 @@ Please visit [yeoman/yo](https://github.com/yeoman/yo) for original documentatio
 ```sh
 
 # install oe-cloud-cli
-$ npm install --global git+https://github.com/EdgeVerve/oe-cloud-cli.git
+$ npm install -g https://github.com/EdgeVerve/oe-cloud-cli.git
 
 # start cli
 $ oe
