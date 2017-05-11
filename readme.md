@@ -2,7 +2,7 @@
 
 ![logo](/img/title.JPG)
                                                                             
-*** CLI for scaffolding oe-cloud based applications. ***
+***CLI for scaffolding oe-cloud based applications.***
 
 > This project is modification of original project [yeoman/yo](https://github.com/yeoman/yo)
 
