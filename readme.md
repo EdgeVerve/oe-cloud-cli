@@ -1,11 +1,6 @@
 # oe-cloud-cli
 
-<div style="background-color:black;">   ██████╗ ███████╗ ██████╗██╗      ██████╗ ██╗   ██╗██████╗    ██╗ ██████╗  </div>
-<div style="background-color:black;">  ██╔═══██╗██╔════╝██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗   ██║██╔═══██╗ </div>
-<div style="background-color:black;">  ██║   ██║█████╗  ██║     ██║     ██║   ██║██║   ██║██║  ██║   ██║██║   ██║ </div>
-<div style="background-color:black;">  ██║   ██║██╔══╝  ██║     ██║     ██║   ██║██║   ██║██║  ██║   ██║██║   ██║ </div>
-<div style="background-color:black;">  ╚██████╔╝███████╗╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝██╗██║╚██████╔╝ </div>
-<div style="background-color:black;">   ╚═════╝ ╚══════╝ ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═╝ ╚═════╝  </div>
+![logo](/img/title.JPG)
 
 ***CLI for scaffolding oe-cloud based applications.***
 
