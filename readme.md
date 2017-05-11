@@ -1,7 +1,12 @@
 # oe-cloud-cli
 
-![logo](/img/title.JPG)
-                                                                            
+<div style="background-color:black;">   ██████╗ ███████╗ ██████╗██╗      ██████╗ ██╗   ██╗██████╗    ██╗ ██████╗  </div>
+<div style="background-color:black;">  ██╔═══██╗██╔════╝██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗   ██║██╔═══██╗ </div>
+<div style="background-color:black;">  ██║   ██║█████╗  ██║     ██║     ██║   ██║██║   ██║██║  ██║   ██║██║   ██║ </div>
+<div style="background-color:black;">  ██║   ██║██╔══╝  ██║     ██║     ██║   ██║██║   ██║██║  ██║   ██║██║   ██║ </div>
+<div style="background-color:black;">  ╚██████╔╝███████╗╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝██╗██║╚██████╔╝ </div>
+<div style="background-color:black;">   ╚═════╝ ╚══════╝ ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═╝ ╚═════╝  </div>
+
 ***CLI for scaffolding oe-cloud based applications.***
 
 > This project is modification of original project [yeoman/yo](https://github.com/yeoman/yo)
@@ -33,4 +38,4 @@ $ oe
 
 ## What's oe-cloud-cli?
 
-oe-cli helps you to kickstart new projects, prescribing best practices and tools to help you stay productive.
+oe-cloud-cli helps you to kickstart new projects, prescribing best practices and tools to help you stay productive.
