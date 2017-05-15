@@ -13,6 +13,10 @@
   "scripts": {
     "test": "xo && gulp"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EdgeVerve/oe-cloud-cli.git"
+  },
   "files": [
     "lib"
   ],
