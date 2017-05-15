@@ -1,6 +1,6 @@
 # oe-cloud-cli
 
-![logo](/img/title.JPG)
+![logo](https://github.com/EdgeVerve/oe-cloud-cli/blob/master/img/title.JPG)
 
 ***CLI for scaffolding oe-cloud based applications.***
 
@@ -20,7 +20,7 @@ Please visit [yeoman/yo](https://github.com/yeoman/yo) for original documentatio
 ```sh
 
 # install oe-cloud-cli
-$ npm install -g https://github.com/EdgeVerve/oe-cloud-cli.git
+$ npm install -g oe-cloud-cli
 
 # start cli
 $ oe
@@ -29,7 +29,7 @@ $ oe
 
 ## Usage
 
-![usage](/img/usage.JPG)
+![usage](https://github.com/EdgeVerve/oe-cloud-cli/blob/master/img/usage.JPG)
 
 ## What's oe-cloud-cli?
 
