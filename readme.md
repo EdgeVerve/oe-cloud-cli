@@ -1,6 +1,6 @@
 # oe-cloud-cli
 
-![logo](https://github.com/EdgeVerve/oe-cloud-cli/blob/master/img/title.JPG)
+![logo](https://rawgit.com/EdgeVerve/oe-cloud-cli/master/img/title.JPG)
 
 ***CLI for scaffolding oe-cloud based applications.***
 
@@ -29,7 +29,7 @@ $ oe
 
 ## Usage
 
-![usage](https://github.com/EdgeVerve/oe-cloud-cli/blob/master/img/usage.JPG)
+![usage](https://rawgit.com/EdgeVerve/oe-cloud-cli/master/img/usage.JPG)
 
 ## What's oe-cloud-cli?
 
