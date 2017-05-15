@@ -1,6 +1,6 @@
 {
   "name": "oe-cloud-cli",
-  "version": "1.8.5",
+  "version": "0.8.0",
   "description": "CLI tool for installing and running oe packages",
   "license": "BSD-2-Clause",
   "main": "lib",
@@ -19,6 +19,10 @@
   "keywords": [
     "cli-app",
     "cli",
+    "open-enterprise-cloud",
+    "open-enterprise",
+    "oe-cli",
+    "oe-cloud-cli",
     "front-end",
     "development",
     "dev",
@@ -27,10 +31,6 @@
     "tool",
     "scaffold",
     "stack",
-    "yeoman",
-    "generator",
-    "generate",
-    "app",
     "boilerplate"
   ],
   "dependencies": {
@@ -46,9 +46,9 @@
     "insight": "^0.8.4",
     "lodash": "^4.17.4",
     "meow": "^3.0.0",
-    "oe-npm-keyword": "git+https://github.com/EdgeVerve/oe-npm-keyword.git#master",
+    "oe-npm-keyword": "^0.8.0",
     "opn": "^4.0.2",
-    "oe-package-json": "git+https://github.com/EdgeVerve/oe-package-json.git#master",
+    "oe-package-json": "^0.8.0",
     "parse-help": "^0.1.1",
     "read-pkg-up": "^2.0.0",
     "root-check": "^1.0.0",
@@ -58,7 +58,7 @@
     "titleize": "^1.0.0",
     "update-notifier": "^2.1.0",
     "user-home": "^2.0.0",
-    "oe-environment": "git+https://github.com/EdgeVerve/oe-environment.git#master"
+    "oe-environment": "^1.6.6"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
