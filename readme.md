@@ -1,7 +1,7 @@
 # oe-cloud-cli
 
 ![logo](/img/title.JPG)
-                                                                            
+
 ***CLI for scaffolding oe-cloud based applications.***
 
 > This project is modification of original project [yeoman/yo](https://github.com/yeoman/yo)
@@ -20,7 +20,7 @@ Please visit [yeoman/yo](https://github.com/yeoman/yo) for original documentatio
 ```sh
 
 # install oe-cloud-cli
-$ npm install --global git+https://github.com/EdgeVerve/oe-cloud-cli.git
+$ npm install -g https://github.com/EdgeVerve/oe-cloud-cli.git
 
 # start cli
 $ oe
@@ -33,4 +33,4 @@ $ oe
 
 ## What's oe-cloud-cli?
 
-oe-cli helps you to kickstart new projects, prescribing best practices and tools to help you stay productive.
+oe-cloud-cli helps you to kickstart new projects, prescribing best practices and tools to help you stay productive.
