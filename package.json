@@ -1,6 +1,6 @@
 {
   "name": "oe-cloud-cli",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "CLI tool for installing and running oe packages",
   "license": "BSD-2-Clause",
   "main": "lib",
