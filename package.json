@@ -41,6 +41,7 @@
     "async": "^2.1.4",
     "chalk": "^1.0.0",
     "cli-list": "^0.2.0",
+    "cli-spinners": "^1.0.0",
     "configstore": "^3.0.0",
     "cross-spawn": "^5.0.1",
     "figures": "^2.0.0",
@@ -49,10 +50,12 @@
     "inquirer": "^3.0.1",
     "insight": "^0.8.4",
     "lodash": "^4.17.4",
+    "log-update": "^2.0.0",
     "meow": "^3.0.0",
+    "oe-environment": "^1.6.6",
     "oe-npm-keyword": "^0.8.0",
-    "opn": "^4.0.2",
     "oe-package-json": "^0.8.0",
+    "opn": "^4.0.2",
     "parse-help": "^0.1.1",
     "read-pkg-up": "^2.0.0",
     "root-check": "^1.0.0",
@@ -61,8 +64,7 @@
     "tabtab": "^1.3.2",
     "titleize": "^1.0.0",
     "update-notifier": "^2.1.0",
-    "user-home": "^2.0.0",
-    "oe-environment": "^1.6.6"
+    "user-home": "^2.0.0"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
@@ -79,17 +81,6 @@
     "registry-url": "^3.0.0",
     "sinon": "^1.12.1",
     "xo": "^0.18.1"
-  },
-  "tabtab": {
-    "yo": [
-      "-f",
-      "--force",
-      "--version",
-      "--no-color",
-      "--no-insight",
-      "--insight",
-      "--generators"
-    ]
   },
   "xo": {
     "space": true,
