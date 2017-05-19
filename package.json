@@ -11,7 +11,8 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "xo && gulp"
+    "test": "xo && gulp",
+	  "postinstall": "npm install oe-starter-app -g"
   },
   "repository": {
     "type": "git",
