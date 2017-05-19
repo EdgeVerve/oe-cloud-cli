@@ -1,6 +1,6 @@
 {
   "name": "oe-cloud-cli",
-  "version": "0.8.5",
+  "version": "0.9.0",
   "description": "CLI tool for installing and running oe packages",
   "license": "BSD-2-Clause",
   "main": "lib",
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "xo && gulp",
-	  "postinstall": "npm install oe-starter-app -g"
+    "postinstall": "npm install oe-starter-app -g"
   },
   "repository": {
     "type": "git",
