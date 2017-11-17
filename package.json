@@ -1,6 +1,6 @@
 {
   "name": "oe-cloud-cli",
-  "version": "0.9.2",
+  "version": "1.1.0",
   "description": "CLI tool for installing and running oe packages",
   "license": "BSD-2-Clause",
   "main": "lib",
@@ -65,7 +65,7 @@
     "titleize": "^1.0.0",
     "update-notifier": "^2.1.0",
     "user-home": "^2.0.0",
-    "oe-starter-app": "^1.0.0"
+    "oe-starter-app": "^1.1.0"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
