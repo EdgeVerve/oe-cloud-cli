@@ -45,6 +45,7 @@
     "configstore": "^3.0.0",
     "cross-spawn": "^5.0.1",
     "figures": "^2.0.0",
+    "fs-extra": "^5.0.0",
     "fullname": "^3.2.0",
     "generator-loopback": "^1.0.0",
     "humanize-string": "^1.0.0",
