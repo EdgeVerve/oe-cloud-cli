@@ -34,3 +34,54 @@ $ oe
 ## What's oe-cloud-cli?
 
 oe-cloud-cli helps you to kickstart new projects, prescribing best practices and tools to help you stay productive.
+
+## Advanced CLI options
+
+oe-cloud-cli provides the option to create model, datasource, property, relation, acl and middleware.
+
+```sh
+# cli to create datasource
+$ oe create datasource
+
+# cli to create model
+$ oe create model
+
+# cli to create property
+$ oe create property
+
+# cli to create relation
+$ oe create relation
+
+# cli to create acl
+$ oe create acl
+
+# cli to create middleware
+$ oe create middleware
+
+```
+
+oe-cloud-cli also enables the user to perform few basic oe cloud functionalities from command line.
+
+* default-ui: Allows the user the generate default UIRoute,NavigationLink and UIComponent for the selected Model.
+* ui-route: Allows the user to enter initial data for UIRoute model
+* navigation-link: Allows the user to enter initial data for NavigationLink model
+* workflow: Allow user the attach workflow to a model from the selected list
+* business-rules: Allow user to attach the business-rules to the model.
+
+```sh
+# cli to define default UI
+$ oe define default-ui
+
+# cli to define UI route
+$ oe define ui-route
+
+# cli to define navigation link
+$ oe define navigation-link
+
+# cli to attach workflow to model
+$ oe attach workflow
+
+# cli to attach business rule to model
+$ oe attach business-rules
+
+```
