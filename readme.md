@@ -31,6 +31,21 @@ $ oe
 
 ![usage](https://rawgit.com/EdgeVerve/oe-cloud-cli/master/img/usage.JPG)
 
+## Steps to Build an Oe-Cloud Starter Application
+
+* Select **Search/Build a Starter App**
+* Select **Starter App** from the command line.
+### Build Oe-Cloud 1.0 Starter Application
+![oe-cloud1x](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/oe-cloud1x.PNG)
+### Build Oe-Cloud 2.0 Starter Application
+![oe-cloud2x](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/oe-cloud2x.PNG)
+### Build Oe-Cloud UI Application
+![oe-cloudui](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/oe-cloudui.PNG)
+
+On completion of npm install, change your directory to the application folder and execute **npm start** command.
+
+![start-server](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/start-server.PNG)
+
 ## What's oe-cloud-cli?
 
 oe-cloud-cli helps you to kickstart new projects, prescribing best practices and tools to help you stay productive.
