@@ -46,7 +46,7 @@
     "cross-spawn": "^5.0.1",
     "figures": "^2.0.0",
     "fs-extra": "^5.0.0",
-    "fullname": "^3.2.0",
+    "fullname": "^4.0.1",
     "generator-loopback": "^6.0.0",
     "humanize-string": "^1.0.0",
     "inquirer": "^6.0.0",
@@ -54,9 +54,10 @@
     "lodash": "^4.17.4",
     "log-update": "^2.0.0",
     "meow": "^3.0.0",
-    "oe-environment": "^1.6.6",
+    "oe-environment": "git+http://evgit/oecloud.io/oe-environment.git#master",
     "oe-npm-keyword": "git+http://evgit/oecloud.io/oe-npm-keyword.git#master",
     "oe-package-json": "git+http://evgit/oecloud.io/oe-package-json.git#master",
+    "oe-starter-app": "git+http://evgit/oecloud.io/oe-starter-app.git#master",
     "opn": "^4.0.2",
     "parse-help": "^0.1.1",
     "read-pkg-up": "^2.0.0",
@@ -66,8 +67,7 @@
     "tabtab": "^1.3.2",
     "titleize": "^1.0.0",
     "update-notifier": "^2.1.0",
-    "user-home": "^2.0.0",
-    "oe-starter-app": "git+http://evgit/kmrsumeet/oe-starter-app.git#master"
+    "user-home": "^2.0.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2",

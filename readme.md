@@ -28,6 +28,8 @@ $ oe
 
 ```
 
+![oe-usage](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/oe-usage.PNG)
+
 
 ## Use
 
