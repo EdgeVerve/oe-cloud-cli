@@ -41,11 +41,8 @@ $ oe
       $ oe starter-app
     ```
 
-  $ oe starter-app
-
-   ```
    
- 2. The oe-Cloud application generator will  prompt you for the name of the application. For example, type **demo** as the name of the application 
+2. The oe-Cloud application generator will  prompt you for the name of the application. For example, type **demo** as the name of the application 
 
     ![application-name](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/getting-started.PNG)
 
