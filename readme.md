@@ -28,7 +28,7 @@ $ oe
 
 ```
 
-![oe-usage](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/oe-usage.PNG)
+![oe-usage](./img/oe-usage.png)
 
 
 ## Use
@@ -44,25 +44,25 @@ $ oe
    
 2. The oe-Cloud application generator will  prompt you for the name of the application. For example, type **demo** as the name of the application 
 
-    ![application-name](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/getting-started.PNG)
+    ![application-name](./img/application-name.png)
 
 3. Select what kind of application you want to create
 
     3.1 If selecting **oe-cloud-2.x** (default selection)
       
-       ![create-oe-cloud-2x](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/create-oe-cloud-2x.PNG)
+       ![create-oe-cloud-2x](./img/create-oe-cloud-2x.png)
         
      *Press Enter to accept default value of Application Description, Version and Author. For oe-cloud 2.0 application, select oe-cloud modules from the checklist using Space Bar Button*.
 
     3.2 If selecting **oe-cloud-1.x**
       
-       ![create-oe-cloud-1x](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/create-oe-cloud-1x.PNG)
+       ![create-oe-cloud-1x](./img/create-oe-cloud-1x.png)
         
      *Press Enter to accept default value of Application Description, Version and Author*.
 
      3.3 If selecting **oe-cloud-ui**
       
-       ![create-oe-cloud-ui](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/create-oe-cloud-ui.PNG)
+       ![create-oe-cloud-ui](./img/create-oe-cloud-ui.png)
         
      *Press Enter to accept default value of Application Description, Version and Author*.
 
