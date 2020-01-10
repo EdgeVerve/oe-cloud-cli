@@ -1,10 +1,10 @@
 'use strict';
-const path = require('path');
+// const path = require('path');
 const gulp = require('gulp');
 const mocha = require('gulp-mocha');
 const istanbul = require('gulp-istanbul');
 const plumber = require('gulp-plumber');
-const coveralls = require('gulp-coveralls');
+// const coveralls = require('gulp-coveralls');
 
 gulp.task('pre-test', () =>
   gulp.src('lib/**/*.js')
@@ -27,13 +27,13 @@ gulp.task('test', ['pre-test'], cb => {
     });
 });
 
-gulp.task('coveralls', ['test'], () => {
-  if (!process.env.CI) {
-    return;
-  }
+// gulp.task('coveralls', ['test'], () => {
+//   if (!process.env.CI) {
+//     return;
+//   }
 
-  return gulp.src(path.join(__dirname, 'coverage/lcov.info'))
-    .pipe(coveralls());
-});
+//   return gulp.src(path.join(__dirname, 'coverage/lcov.info'))
+//     .pipe(coveralls());
+// });
 
-gulp.task('default', ['test', 'coveralls']);
+gulp.task('default', ['test']);
