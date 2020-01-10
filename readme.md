@@ -35,9 +35,11 @@ $ oe
 
 ### Scaffold a new application
 
- 1. Run `oe starter-app` to create a new oe-cloud application.
+1. Run `oe starter-app` to create a new oe-cloud application.
 
-   ```sh
+    ```sh
+      $ oe starter-app
+    ```
 
   $ oe starter-app
 
@@ -47,15 +49,15 @@ $ oe
 
     ![application-name](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/getting-started.PNG)
 
- 3. Select what kind of application you want to create
+3. Select what kind of application you want to create
 
-     3.1 If selecting **oe-cloud-2.x** (default selection)
+    3.1 If selecting **oe-cloud-2.x** (default selection)
       
        ![create-oe-cloud-2x](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/create-oe-cloud-2x.PNG)
         
      *Press Enter to accept default value of Application Description, Version and Author. For oe-cloud 2.0 application, select oe-cloud modules from the checklist using Space Bar Button*.
 
-     3.2 If selecting **oe-cloud-1.x**
+    3.2 If selecting **oe-cloud-1.x**
       
        ![create-oe-cloud-1x](http://evgit/oecloud.io/oe-cloud-cli/raw/master/img/create-oe-cloud-1x.PNG)
         
@@ -68,7 +70,7 @@ $ oe
      *Press Enter to accept default value of Application Description, Version and Author*.
 
 
- 4. The generator will then display messages as it scaffolds the application including:
+4. The generator will then display messages as it scaffolds the application including:
 
      4.1 Initializing the project folder structure.
 
@@ -77,9 +79,9 @@ $ oe
      4.3 Downloading and installing dependent Node modules (as if you had manually done npm install).
      
 
- 5. Run `node .` to start the scaffolded server for **oe-cloud 1.x** and **oe-cloud 2.x** application
+5. Run `node .` to start the scaffolded server for **oe-cloud 1.x** and **oe-cloud 2.x** application
 
- 6. Run `npm start` to start **oe-cloud ui** application
+6. Run `npm start` to start **oe-cloud ui** application
 
 
 
