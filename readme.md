@@ -50,11 +50,11 @@ $ oe
 
     3.1 If selecting **oe-cloud-2.x** (default selection)
       
-       ![create-oe-cloud-2x](./img/create-oe-cloud-2x.png)
+       ![create-oe-cloud-2x](./img/create-oe-cloud-2.x.png)
 
        3.1.1 If selecting **oe-cloud-2.x-server**
             
-            ![create-oe-cloud-2x-server](/img/create-oe-cloud-2.x-server.png)
+            ![create-oe-cloud-2x-server](./img/create-oe-cloud-2.x-server.png)
 
        3.1.2 If selecting **oe-cloud-2.x-serverUI**
              
