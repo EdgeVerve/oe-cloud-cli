@@ -49,7 +49,7 @@ $ oe
 3. Select what kind of application you want to create
 
     3.1 If selecting **oe-cloud-2.x** (default selection)
-      
+    
        ![create-oe-cloud-2x](./img/create-oe-cloud-2.x.png)
 
        3.1.1 If selecting **oe-cloud-2.x-server**
