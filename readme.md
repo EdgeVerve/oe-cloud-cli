@@ -53,18 +53,15 @@ $ oe
        ![create-oe-cloud-2x](./img/create-oe-cloud-2.x.png)
 
        3.1.1 If selecting **oe-cloud-2.x-server**
-            
-            ![create-oe-cloud-2x-server](./img/create-oe-cloud-2xserver.png)
+            ![create-oe-cloud-2xserver](./img/create-oe-cloud-2xserver.png)
 
        3.1.2 If selecting **oe-cloud-2.x-serverUI**
-             
-            ![create-oe-cloud-2x-serverUI](./img/create-oe-cloud-2xserverUI.png)
+            ![create-oe-cloud-2xserverUI](./img/create-oe-cloud-2xserverUI.png)
 
        3.1.3 If selecting **oe-cloud-2.x-serverUI** and **Enable oe-studio**
-       
-            ![create-oe-cloud-2x-studio](./img/create-oe-cloud-2xstudio.png)
+            ![create-oe-cloud-2xstudio](./img/create-oe-cloud-2xstudio.png)
         
-     *Press Enter to accept default value of Application Description, Version and Author. For oe-cloud 2.0 application, select oe-cloud modules from the checklist using Space Bar Button*.
+     *Press Enter to accept default value of Application Description, Version and Author. For oe-cloud 2.0 application, select oe-cloud modules from the checklist using Space Bar Button. Hit Enter to complete module selection*.
 
     3.2 If selecting **oe-cloud-1.x**
       
