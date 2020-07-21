@@ -54,6 +54,7 @@
     "lodash": "^4.17.4",
     "log-update": "^2.0.0",
     "meow": "^3.0.0",
+    "nopt": "3.0.6",
     "oe-environment": "git+http://evgit/oecloud.io/oe-environment.git#master",
     "oe-npm-keyword": "git+http://evgit/oecloud.io/oe-npm-keyword.git#master",
     "oe-package-json": "git+http://evgit/oecloud.io/oe-package-json.git#master",
