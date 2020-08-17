@@ -55,7 +55,7 @@
     "log-update": "^2.0.0",
     "meow": "^3.0.0",
     "nopt": "3.0.6",
-    "oe-environment": "git+http://evgit/oecloud.io/oe-environment.git#1.6.7",
+    "oe-environment": "git+http://evgit/oecloud.io/oe-environment.git#1.6.8",
     "oe-npm-keyword": "git+http://evgit/oecloud.io/oe-npm-keyword.git#1.5.1",
     "oe-package-json": "git+http://evgit/oecloud.io/oe-package-json.git#0.8.1",
     "oe-starter-app": "git+http://evgit/oecloud.io/oe-starter-app.git#2.3.0",
