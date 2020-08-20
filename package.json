@@ -51,7 +51,7 @@
     "humanize-string": "1.0.2",
     "inquirer": "6.5.2",
     "insight": "0.10.3",
-    "lodash": "4.17.19",
+    "lodash": "4.17.20",
     "log-update": "2.3.0",
     "meow": "3.7.0",
     "nopt": "3.0.6",
